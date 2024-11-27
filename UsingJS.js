@@ -10,3 +10,4 @@ console.log('Métodos da string...');
 console.log(text.match(regexLetras));
 console.log(text.search(regexLetras));
 console.log(text.replace(regexLetras, 'Achei'));
+console.log(text.split(regexLetras));
